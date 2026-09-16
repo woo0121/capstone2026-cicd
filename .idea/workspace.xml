@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0be67926-e01f-4caf-ab02-f1b8c1a95069" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/frontend/public/projectInfo.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
@@ -23,6 +22,7 @@
       <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/example/capstone2026/repository/MemberRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/example/capstone2026/repository/MemberRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/public/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/public/login.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +79,7 @@
     "Spring Boot.Capstone2026Application.executor": "Run",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "feature/login",
+    "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/dev/mywork/capstone2026 - cicd",
